@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Tidbits | In Pursuit of Laziness]]></title>
-  <link href="http://manishearth.github.io/blog/categories/tidbits/atom.xml" rel="self"/>
-  <link href="http://manishearth.github.io/"/>
-  <updated>2017-05-19T01:17:39+00:00</updated>
-  <id>http://manishearth.github.io/</id>
+  <link href="http://manishearth.github.io/blog_staging/blog/categories/tidbits/atom.xml" rel="self"/>
+  <link href="http://manishearth.github.io/blog_staging/"/>
+  <updated>2017-05-19T01:40:15+00:00</updated>
+  <id>http://manishearth.github.io/blog_staging/</id>
   <author>
     <name><![CDATA[Manish Goregaokar]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mentally Modelling Modules]]></title>
-    <link href="http://manishearth.github.io/blog/2017/05/14/mentally-modelling-modules/"/>
+    <link href="http://manishearth.github.io/blog_staging/blog/2017/05/14/mentally-modelling-modules/"/>
     <updated>2017-05-14T00:00:00+00:00</updated>
-    <id>http://manishearth.github.io/blog/2017/05/14/mentally-modelling-modules</id>
+    <id>http://manishearth.github.io/blog_staging/blog/2017/05/14/mentally-modelling-modules</id>
     <content type="html"><![CDATA[<p>The module and import system in Rust is sadly one of the many confusing things you have to deal with whilst
 learning the language. A lot of these confusions stem from a misunderstanding of how it works.
 In explaining this I&rsquo;ve seen that it&rsquo;s usually a common set of misunderstandings.</p>
@@ -432,9 +432,9 @@ docs, but if you have ideas, feel free to adapt it<sup id="fnref:5"><a href="#fn
   
   <entry>
     <title type="html"><![CDATA[I Never Hear the Phrase 'INHTPAMA' Anymore]]></title>
-    <link href="http://manishearth.github.io/blog/2017/03/18/inhtpinhtpamaa/"/>
+    <link href="http://manishearth.github.io/blog_staging/blog/2017/03/18/inhtpinhtpamaa/"/>
     <updated>2017-03-18T00:00:00+00:00</updated>
-    <id>http://manishearth.github.io/blog/2017/03/18/inhtpinhtpamaa</id>
+    <id>http://manishearth.github.io/blog_staging/blog/2017/03/18/inhtpinhtpamaa</id>
     <content type="html"><![CDATA[<p>Imagine never hearing the phrase &lsquo;INHTPAMA&rsquo; again.</p>
 
 <p>Oh, that&rsquo;s already the case? Bummer.</p>
@@ -469,9 +469,9 @@ memory of the Rust community.</p>
   
   <entry>
     <title type="html"><![CDATA[Rust Tidbits: What Is a Lang Item?]]></title>
-    <link href="http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/"/>
+    <link href="http://manishearth.github.io/blog_staging/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/"/>
     <updated>2017-01-11T00:00:00+00:00</updated>
-    <id>http://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item</id>
+    <id>http://manishearth.github.io/blog_staging/blog/2017/01/11/rust-tidbits-what-is-a-lang-item</id>
     <content type="html"><![CDATA[<p><em>Rust is not a simple language. As with any such language, it has many little tidbits of complexity
 that most folks aren&rsquo;t aware of. Many of these tidbits are ones which may not practically matter
 much for everyday Rust programming, but are interesting to know. Others may be more useful. I&rsquo;ve
@@ -842,9 +842,9 @@ useful!</p>
   
   <entry>
     <title type="html"><![CDATA[Rust Tidbits: Box Is Special]]></title>
-    <link href="http://manishearth.github.io/blog/2017/01/10/rust-tidbits-box-is-special/"/>
+    <link href="http://manishearth.github.io/blog_staging/blog/2017/01/10/rust-tidbits-box-is-special/"/>
     <updated>2017-01-10T00:00:00+00:00</updated>
-    <id>http://manishearth.github.io/blog/2017/01/10/rust-tidbits-box-is-special</id>
+    <id>http://manishearth.github.io/blog_staging/blog/2017/01/10/rust-tidbits-box-is-special</id>
     <content type="html"><![CDATA[<p>Rust is not a simple language. As with any such language, it has many little tidbits of complexity
 that most folks aren&rsquo;t aware of. Many of these tidbits are ones which may not practically matter
 much for everyday Rust programming, but are interesting to know. Others may be more useful. I&rsquo;ve
